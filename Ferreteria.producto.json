@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6a26557acdcc2b0a26a944de"
+  },
+  "nombre": "Soldadora",
+  "precio": {
+    "$numberDecimal": "2300.0"
+  },
+  "stock": 10,
+  "categoria": "Herramientas",
+  "Id": 1,
+  "dimensiones": "78*34",
+  "color": "negra"
+},
+{
+  "_id": {
+    "$oid": "6a2655bdcdcc2b0a26a944e0"
+  },
+  "nombre": "Martillo electrico",
+  "precio": {
+    "$numberDecimal": "200.0"
+  },
+  "stock": 340,
+  "categoria": "Herramientas eléctricas",
+  "Id": 2,
+  "watts": "1200",
+  "voltios": "1.5"
+},
+{
+  "_id": {
+    "$oid": "6a2656ceb15bba0af9243a8e"
+  },
+  "nombre": "Taladro electrico",
+  "precio": {
+    "$numberDecimal": "2900.0"
+  },
+  "stock": 34,
+  "categoria": "Herramientas eléctricas",
+  "Id": 3,
+  "watts": "3000",
+  "voltios": "24"
+},
+{
+  "_id": {
+    "$oid": "6a2658e62c67cd9cdcc08697"
+  },
+  "nombre": "Pintura blanca",
+  "precio": {
+    "$numberDecimal": "300.0"
+  },
+  "stock": 23,
+  "categoria": "Pinturas",
+  "Id": 4,
+  "presentación": "1000 ml",
+  "color": "blanca"
+}]
